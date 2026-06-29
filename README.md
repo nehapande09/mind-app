@@ -82,4 +82,3 @@ React · TypeScript · Python · GenAI
 
 ---
 
-*Built because I needed it. Shared because you might too.*
